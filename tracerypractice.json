@@ -1,0 +1,35 @@
+{
+	"name": [
+		"Jackie",
+		"Mary",
+		"Frank",
+		"Tom",
+		"Willie",
+		"Lewis"
+	],
+	"occupation": [
+		"cook",
+		"nurse",
+		"doctor",
+		"lawyer",
+		"teacher",
+		"salesman"
+	],
+	"origin": [
+		"#name# ,a #occupation#,"
+	],
+	"symbol1": [
+		"always",
+		"never",
+		"rarely",
+		"sometimes",
+		"maybe"
+	],
+	"symbol2": [
+		"expecting",
+		"anticipating",
+		"imagining",
+		"assume",
+		"believe"
+	]
+}
